@@ -10,4 +10,4 @@ Este proyecto muestra cómo crear una galería de imágenes utilizando Flexbox.
 
 1. Clona este repositorio:
    ```sh
-   git clone https://github.com/alexto777/clase17.git
+   git clone https://github.com/alexto777/galeria-flex.git
